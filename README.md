@@ -1,3 +1,5 @@
+[Screenshot](ss.png)
+
 # Sutatopeji
 
 A custom start page with links to URLs I often use. Instead of relying on UI libraries such as React or Vue to render components, I used custom the [Web Components API](https://developer.mozilla.org/en-US/docs/Web/Web_Components) that is supported by all modern browsers. The design was inspired by this [post](https://www.reddit.com/r/startpages/comments/wzw98e/simple_monochrome_homepage_and_a_script_to/) on Reddit.
