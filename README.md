@@ -10,4 +10,4 @@ A tutorial on how to use the [Web Components API](https://developer.mozilla.org/
 
 Feel free to customize this to your liking.
 
-`git clone https://github.com/tuffgniuz/sutatopeji`
+`git clone https://github.com/tuffgniuz/periodic-table-of-the-web`
