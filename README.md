@@ -1,4 +1,4 @@
-[Screenshot](ss.png)
+![Screenshot](ss.png)
 
 # Sutatopeji
 
